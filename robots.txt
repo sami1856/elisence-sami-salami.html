@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://elisence.fit/sitemap.xml
